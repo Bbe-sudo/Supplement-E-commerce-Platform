@@ -5,7 +5,6 @@ A web-based e-commerce platform designed for selling supplements online, allowin
 
 ## Features
 - Product catalog
-- User registration/login
 - Shopping cart
 - Checkout process
 - Order management
