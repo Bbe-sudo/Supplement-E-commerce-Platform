@@ -13,8 +13,7 @@ A web-based e-commerce platform designed for selling supplements online, allowin
 ## Technologies Used
 - PHP
 - HTML/CSS
-- MySQL
-- JavaScript (if used)
+- JavaScript
 
 ## Screenshots
 <img width="961" height="569" alt="image" src="https://github.com/user-attachments/assets/51de9c6e-cff7-4c6e-9f34-ff13eadc7c01" />
