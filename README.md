@@ -23,8 +23,7 @@ A frontend e-commerce website designed for an online supplement store. The site 
 
 ## Project Scope
 
-This project is a **frontend implementation** and does not include a custom backend, PHP, database, or admin dashboard.
-
+This project is a frontend implementation.
 
 ## Screenshots
 
